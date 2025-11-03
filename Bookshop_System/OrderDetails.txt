@@ -1,0 +1,4 @@
+12 : 2 : Mrs.Lee : 2
+13 : 50 : Mr.Silva : 2
+45 : 30 : Asia : C
+22 : 30 : Asiana : 1

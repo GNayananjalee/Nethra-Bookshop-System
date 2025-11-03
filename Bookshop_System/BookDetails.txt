@@ -1,0 +1,29 @@
+10 : Forestry : Dr.Silva : 1134
+11 : Life : Henry : 23340 : 560
+12 : Hero : Richard : 45521 : 450
+13 : Computer Science : John B : 21105 : 300
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+11 : Life : Henry : 23340 : 560
